@@ -46,7 +46,7 @@ Ogni modifica (aggiunta, eliminazione, completamento task) viene salvata automat
   - name
   - list di TodoItem
 
-## Come scaricre l'app
+## Come scaricare l'app
 Nella cartella github sono presenti solo i file modificati per l'applicazione:
 Creare quindi un nuovo progetto flutter e sostituire la cartella lib con quella presente in questo progetto.
 La stessa cosa con i file yaml e lock. Nella cartella assets è presente una cartella img con le varie immagini utilizzate per questa applicazione.
